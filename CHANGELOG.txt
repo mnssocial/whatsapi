@@ -1,0 +1,3 @@
+[v1.0.1 - 01-04-2023]
+- Reduced RAM usage in ~10%
+- Added better logs for troubleshooting
